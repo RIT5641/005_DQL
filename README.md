@@ -1,4 +1,4 @@
-# Deep Q-Learning para Trading Algorítmico en Bitcoin
+# Deep Q-Learning para Trading Algorítmico en QQQ
 Este proyecto implementa un agente de Deep Q-Learning (DQN) para operar de forma automática sobre Bitcoin utilizando aprendizaje por refuerzo. El objetivo principal es comparar el desempeño de un agente RL entrenado con una estrategia tradicional de Buy & Hold, analizando sus resultados y limitaciones en un entorno financiero realista.
 ## Descripción
 

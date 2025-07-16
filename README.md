@@ -3,7 +3,7 @@ Este proyecto implementa un agente de Deep Q-Learning (DQN) para operar de forma
 ## Descripción
 
 Se utiliza un notebook en Python (Jupyter) que incluye:
-Descarga y procesamiento de datos históricos de Bitcoin (BTC-USD) usando `yfinance`.
+Descarga y procesamiento de datos históricos del ETF (QQQ) usando `yfinance`.
 Definición del entorno de trading personalizado.
 Implementación del agente DQN desde cero con PyTorch.
 Entrenamiento, backtesting y análisis de métricas (retorno, Sharpe, drawdown, etc.).

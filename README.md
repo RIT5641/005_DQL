@@ -1,9 +1,9 @@
 # Deep Q-Learning para Trading Algorítmico en QQQ
-Este proyecto implementa un agente de Deep Q-Learning (DQN) para operar de forma automática sobre Bitcoin utilizando aprendizaje por refuerzo. El objetivo principal es comparar el desempeño de un agente RL entrenado con una estrategia tradicional de Buy & Hold, analizando sus resultados y limitaciones en un entorno financiero realista.
+Este proyecto implementa un agente de Deep Q-Learning (DQN) para operar de forma automática sobre QQQ utilizando aprendizaje por refuerzo. El objetivo principal es comparar el desempeño de un agente RL entrenado con una estrategia tradicional de Buy & Hold, analizando sus resultados y limitaciones en un entorno financiero realista.
 ## Descripción
 
 Se utiliza un notebook en Python (Jupyter) que incluye:
-Descarga y procesamiento de datos históricos del ETF (QQQ) usando `yfinance`.
+Descarga y procesamiento de datos históricos de un ETF (QQQ) usando `yfinance`.
 Definición del entorno de trading personalizado.
 Implementación del agente DQN desde cero con PyTorch.
 Entrenamiento, backtesting y análisis de métricas (retorno, Sharpe, drawdown, etc.).
